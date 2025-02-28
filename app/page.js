@@ -31,11 +31,12 @@ const Page = () => {
   return (
     <>
     <Head>
+    {/* https://nextjsemail.vercel.app/ */}
     
       <meta property="og:title" content="Livewell" />
         <meta property="og:description" content="A website built to sell helthy lifestyle courses." />
-        {/* <meta property="og:image" content="https://example.com/my-og-image.jpg" />
-        <meta property="og:url" content="https://livewell.com" /> */}
+        <meta property="og:image" content="https://nextjsemail.vercel.app/public/section3img3.jpg" />
+        <meta property="og:url" content="https://nextjsemail.vercel.app" />
         <meta property="og:type" content="website" />
             </Head>
 
